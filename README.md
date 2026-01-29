@@ -41,11 +41,17 @@ Architecture: RESTful API, 계층 분리 구조 (Controller / Service / Reposito
 
 📂 프로젝트 구조
 ├─ gradle/
+
 ├─ src/
+
 │  └─ main/
+
 │     └─ java/
+
 ├─ build.gradle
+
 ├─ settings.gradle
+
 └─ gradlew
 
 🚀 프로젝트 목적
